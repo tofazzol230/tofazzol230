@@ -18,19 +18,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![Rahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofazzol230&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tofazzol230&layout=compact&theme=radical)
-
----
-
 ## ⚡ Fun Fact
 I believe debugging is like solving a puzzle — frustrating at first, but satisfying when the pieces click together!  
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=tofazzol230&color=blue&style=flat)  
-![Snake animation](https://github.com/tofazzol230/tofazzol230/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

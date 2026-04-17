@@ -40,8 +40,7 @@
 ---
 ### 📊 Most Used Languages
 
-  ![C](https://img.shields.io/badge/C-80%25-00599C?style=flat-square)
-  ![Java](https://img.shields.io/badge/Java-20%25-ED8B00?style=flat-square)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tofazzol230&layout=compact&theme=tokyonight)
 
 ---
 

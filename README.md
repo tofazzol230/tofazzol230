@@ -43,7 +43,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tofazzol230&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tofazzol230&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tofazzol230&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofazzol230&theme=tokyonight" />
 </p>
 
 ---
@@ -58,13 +66,15 @@
 
 ---
 
-### 🏆 Featured Projects
+### 🚀 Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Terminal Chat App](https://github.com/tofazzol230/Terminal-Based-Group-Private-Chat) | Real-time multi-user chat with TCP sockets | C, POSIX, ncurses |
-| [Tic Tac Toe Bot](https://github.com/tofazzol230/tictactoe-bot) | Unbeatable AI using optimal strategy | C |
+| 💻 Project | 📌 Description | ⚙️ Tech |
+|------------|--------------|--------|
+| [Regression Calculator](https://github.com/tofazzol230/Single_Variable_Regression) | X→Y regression tool with CI (90/95/99%), t-test, R², SSE + interactive graph | HTML, CSS, JavaScript |
+| [Terminal Chat App](https://github.com/tofazzol230/Terminal-Based-Group-Private-Chat) | Real-time multi-user chat using TCP sockets | C, POSIX, ncurses |
+| [Tic Tac Toe Bot](https://github.com/tofazzol230/tictactoe-bot) | Unbeatable AI (optimal strategy) | C |
 | [C Lab Work](https://github.com/tofazzol230/First-Semester-C-Lab-Work) | Arrays, Recursion, File I/O, BMP Processing | C |
+
 
 ---
 

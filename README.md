@@ -32,12 +32,18 @@
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 Codeforces Stats
 <p align="center">
   <a href="https://codeforces.com/profile/Tofazzol_7">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Tofazzol_7&theme=dark" />
   </a>
+</p>
+
+---
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tofazzol230&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 ---

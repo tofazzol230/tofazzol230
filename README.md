@@ -16,6 +16,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Web Technologies:**
 
@@ -34,13 +35,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tofazzol230&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <a href="https://codeforces.com/profile/Tofazzol_7">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Tofazzol_7&theme=dark" />
+  </a>
 </p>
 
 ---
+
 ### 📊 Most Used Languages
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tofazzol230&layout=compact&theme=tokyonight)
+  <p align="center">
+  <a href="https://github.com/tofazzol230">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofazzol230&layout=compact&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 

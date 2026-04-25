@@ -60,7 +60,7 @@
 
   <p align="center">
   <a href="https://github.com/tofazzol230">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofazzol230&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofazzol230&layout=compact&theme=tokyonight&langs_count=10" />
   </a>
 </p>
 
